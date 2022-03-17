@@ -1,6 +1,6 @@
 {
 
-  "name" : "thadafinser/package-info",
+  "name" : "frozensight/package-info",
   "description" : "Composer plugin that provides efficient querying for installed package versions (no runtime IO)",
   
   "require" : {
